@@ -1,31 +1,32 @@
-Thanks for helping make GitHub safe for everyone.
+sinlee7022@gmail.com
+GitHub을 모두에게 안전하게 만드는 것을 도와주셔서 감사합니다.
 
-## Security
+##     보안   
 
-GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
+   GitHub은 우리의 소프트웨어 제품과 서비스의 보안을 심각하게 받아들이는데, 여기에는 GitHub 조직을 통해 관리되는 모든 오픈 소스 코드 저장소가 포함됩니다.     [깃허브](https://github.com/GitHub).
 
-Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
+   하지만     [오픈 소스 저장소는 우리의 버그 현상금 프로그램의 범위를 벗어난다.](https://bounty.github.com/index.html#scope)     따라서 현상금 보상을 받을 자격이 없습니다. 우리는 당신의 발견이 교정을 위한 적절한 유지자들에게 전달되도록 보장할 것입니다.     
 
-## Reporting Security Issues
+##     보안문제보고   
 
-If you believe you have found a security vulnerability in any GitHub-owned repository, please report it to us through coordinated disclosure.
+만약 당신이 GitHub 소유의 저장소에서 보안 취약점을 발견했다고 믿는다면, 조정된 공개를 통해 우리에게 보고해 주세요.
 
-**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
+**공공 GitHub 이슈, 토론 또는 당기기 요청을 통해 보안 취약점을 보고하지 않도록 부탁드립니다.**
 
-Instead, please send an email to opensource-security[@]github.com.
+대신 오픈소스 보안에 이메일을 보내주세요[@]github.com.
 
-Please include as much of the information listed below as you can to help us better understand and resolve the issue:
+아래 나열된 정보의 많은 부분을 포함하십시오. 우리가 문제를 더 잘 이해하고 해결할 수 있도록 도와 줍니다.
 
-  * The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)
-  * Full paths of source file(s) related to the manifestation of the issue
-  * The location of the affected source code (tag/branch/commit or direct URL)
-  * Any special configuration required to reproduce the issue
-  * Step-by-step instructions to reproduce the issue
-  * Proof-of-concept or exploit code (if possible)
-  * Impact of the issue, including how an attacker might exploit the issue
+  *     이슈의 종류(예를 들어, 버퍼 오버플로, SQL 주입 또는 교차 사이트 스크립팅)   
+  *     이슈 발현과 관련된 소스 파일의 전체 경로   
+  *     영향을 받은 소스 코드의 위치 (태그/브랜치/커밋 또는 직접 URL)   
+  *     문제를 재현하기 위해 필요한 특별한 구성   
+  *     이슈 재현을 위한 단계별 지시사항   
+  *     개념 증명 또는 악용 코드 (가능하면)   
+  *     공격자가 어떻게 이 문제를 악용할 수 있는지를 포함한 이 문제의 영향   
 
-This information will help us triage your report more quickly.
+이 정보는 우리가 당신의 보고서를 더 빨리 분류하는 데 도움이 될 것입니다.
 
-## Policy
+##     정책   
 
-See [GitHub's Safe Harbor Policy](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
+   씨     [깃허브의 안전한 항구 정책](https://docs.github.com/en/site-policy/security-policies/github-bug-bounty-program-legal-safe-harbor)
